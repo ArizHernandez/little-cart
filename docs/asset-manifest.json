@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/little-cart/static/css/main.c1c8827d.chunk.css",
+    "main.js": "/little-cart/static/js/main.906c47d9.chunk.js",
+    "main.js.map": "/little-cart/static/js/main.906c47d9.chunk.js.map",
+    "runtime-main.js": "/little-cart/static/js/runtime-main.0088d002.js",
+    "runtime-main.js.map": "/little-cart/static/js/runtime-main.0088d002.js.map",
+    "static/js/2.f18b0e2e.chunk.js": "/little-cart/static/js/2.f18b0e2e.chunk.js",
+    "static/js/2.f18b0e2e.chunk.js.map": "/little-cart/static/js/2.f18b0e2e.chunk.js.map",
+    "index.html": "/little-cart/index.html",
+    "static/css/main.c1c8827d.chunk.css.map": "/little-cart/static/css/main.c1c8827d.chunk.css.map",
+    "static/js/2.f18b0e2e.chunk.js.LICENSE.txt": "/little-cart/static/js/2.f18b0e2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0088d002.js",
+    "static/js/2.f18b0e2e.chunk.js",
+    "static/css/main.c1c8827d.chunk.css",
+    "static/js/main.906c47d9.chunk.js"
+  ]
+}
